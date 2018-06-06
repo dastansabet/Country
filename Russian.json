@@ -1,14 +1,6 @@
 {
 	"name" : "Россия",
 	"children" : {
-		"name" : "nan",
-		"children" : [
-			"nan",
-			"nan",
-			"nan",
-			"nan",
-			"nan"
-		],
 		"name" : "Адыгея",
 		"children" : [
 			"Адыгейск",
